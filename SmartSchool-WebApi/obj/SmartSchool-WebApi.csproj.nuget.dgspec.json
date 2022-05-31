@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Moises\\Desktop\\Angular&.NetCore\\SmartSchool-WebApi\\SmartSchool-WebApi.csproj": {}
+    "C:\\Users\\Moises\\Desktop\\Angular_DotNet\\SmartSchool-WebApi\\SmartSchool-WebApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Moises\\Desktop\\Angular&.NetCore\\SmartSchool-WebApi\\SmartSchool-WebApi.csproj": {
+    "C:\\Users\\Moises\\Desktop\\Angular_DotNet\\SmartSchool-WebApi\\SmartSchool-WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Moises\\Desktop\\Angular&.NetCore\\SmartSchool-WebApi\\SmartSchool-WebApi.csproj",
+        "projectUniqueName": "C:\\Users\\Moises\\Desktop\\Angular_DotNet\\SmartSchool-WebApi\\SmartSchool-WebApi.csproj",
         "projectName": "SmartSchool-WebApi",
-        "projectPath": "C:\\Users\\Moises\\Desktop\\Angular&.NetCore\\SmartSchool-WebApi\\SmartSchool-WebApi.csproj",
+        "projectPath": "C:\\Users\\Moises\\Desktop\\Angular_DotNet\\SmartSchool-WebApi\\SmartSchool-WebApi.csproj",
         "packagesPath": "C:\\Users\\Moises\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Moises\\Desktop\\Angular&.NetCore\\SmartSchool-WebApi\\obj\\",
+        "outputPath": "C:\\Users\\Moises\\Desktop\\Angular_DotNet\\SmartSchool-WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
